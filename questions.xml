@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+	<question>
+		<title>Show 95 degrees Fahrenheit in the thermometer.</title>
+		<answer>95</answer>
+	</question>
+	<question>
+		<title>Show 95.2 degrees Fahrenheit in the thermometer.</title>
+		<answer>95.2</answer>
+	</question>
+	<question>
+		<title>Show 95.4 degrees Fahrenheit in the thermometer.</title>
+		<answer>95.4</answer>
+	</question>
+	<question>
+		<title>Show 95.6 degrees Fahrenheit in the thermometer.</title>
+		<answer>95.6</answer>
+	</question>
+	<question>
+		<title>Show 96 degrees Fahrenheit in the thermometer.</title>
+		<answer>96</answer>
+	</question>
+	<question>
+		<title>Show 97 degrees Fahrenheit in the thermometer.</title>
+		<answer>97</answer>
+	</question>
+	<question>
+		<title>Show 98 degrees Fahrenheit in the thermometer.</title>
+		<answer>98</answer>
+	</question>
+	<question>
+		<title>Show 99 degrees Fahrenheit in the thermometer.</title>
+		<answer>99</answer>
+	</question>
+	<question>
+		<title>Show 100 degrees Fahrenheit in the thermometer.</title>
+		<answer>100</answer>
+	</question>
+	<question>
+		<title>Show 101 degrees Fahrenheit in the thermometer.</title>
+		<answer>101</answer>
+	</question>
+	<question>
+		<title>Show 102 degrees Fahrenheit in the thermometer.</title>
+		<answer>102</answer>
+	</question>
+	<question>
+		<title>Show 103 degrees Fahrenheit in the thermometer.</title>
+		<answer>103</answer>
+	</question>
+	<question>
+		<title>Show 104 degrees Fahrenheit in the thermometer.</title>
+		<answer>104</answer>
+	</question>
+	<question>
+		<title>Show 105 degrees Fahrenheit in the thermometer.</title>
+		<answer>105</answer>
+	</question>
+</questions>
